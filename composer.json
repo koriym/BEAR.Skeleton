@@ -6,12 +6,12 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "ext-json": "*",
-        "bear/dotenv": "^1.0",
-        "bear/package": "^1.10",
-        "bear/resource": "^1.15",
-        "bear/sunday": "^1.5",
-        "ray/aop": "^2.10",
-        "ray/di": "^2.11"
+        "bear/dotenv": "1.x-dev",
+        "bear/package": "1.x-dev",
+        "bear/resource": "1.x-dev",
+        "bear/sunday": "1.x-dev",
+        "ray/aop": "2.x-dev",
+        "ray/di": "2.x-dev"
     },
     "require-dev": {
         "bear/devtools": "^0.1",
